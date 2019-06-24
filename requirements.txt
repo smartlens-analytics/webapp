@@ -1,0 +1,6 @@
+ipywidgets
+voila
+pandas
+nltk
+matplotlib
+boto3
